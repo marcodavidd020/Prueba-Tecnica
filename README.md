@@ -34,7 +34,7 @@ Una API REST robusta construida con NestJS que consume la API de DummyJSON para 
 
 ```bash
 git clone https://github.com/marcodavidd020/Prueba-Tecnica.git
-cd prueba
+cd Prueba-Tecnica
 ```
 
 ### 2. Instalar dependencias
